@@ -2,7 +2,7 @@
   "name": "awwwards",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://Reem-abuallah.github.io/Gaming",
+  "homepage": "https://Reem-abuallah.github.io/Gaming-website",
   "type": "module",
   "scripts": {
     "dev": "vite",
